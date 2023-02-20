@@ -13,3 +13,53 @@
  *= require_tree .
  *= require_self
  */
+h1 {
+  color : darkblue;
+  text-align: center;
+
+
+}
+
+
+.card-body {
+background-color: lightblue;
+box-shadow: 2px;
+padding: 14px;
+margin-top: 8px;
+border-radius: 6px;
+box-shadow: 4px;
+}
+
+.card-boot {
+  background-color: lightblue;
+
+}
+
+.card-title {
+  padding : 10px;
+  border-radius: 50px;
+}
+
+a {
+  text-decoration: none;
+  background-color: blue;
+  border-radius: 10px;
+  padding : 5px;
+  color : white;
+}
+
+.card-boot {
+  padding: 10px;
+  margin-top : 30px;
+  border-radius : 190px;
+}
+
+.input {
+  border-radius: 50px;
+  display: flex;
+  justify-content: center;
+  background-color: white;
+
+}
+
+
